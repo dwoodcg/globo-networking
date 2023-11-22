@@ -14,3 +14,5 @@
 # .pem files
 *.pembackend_local.tf
 
+backend_local.tf
+.terraform.lock.hcl
